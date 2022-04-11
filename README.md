@@ -1,16 +1,14 @@
 
-# gingerkitty smells good...Biggest 
+# gingerkitty smells good
+
+## bullets
+- cat
+- kitten
+- redhead
 
 
-## bullets...Bigger
-
-- thing1
-- thing2
-
-
-### numbered list...Big
-
-1. brush teeth
+### numbered list
+1. brush fangs
 2. clean whiskers
 
 ### testing formating
@@ -18,7 +16,7 @@
 _slanted kitty_  
 `code kitty`
 
-[click here if you want to leave](https://www.apple.com/mac/) 
+[click here if you want to leave](https://icatcare.org/advice/the-kitten-checklist/) 
 
 Piggy from Utrecht  
 ![heres an image from Utrecht](pig-utrecht.jpg) 
