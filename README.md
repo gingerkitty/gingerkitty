@@ -11,7 +11,6 @@
 1. brush fangs
 2. clean whiskers
 
-### testing formating
 **bold kitty**  
 _slanted kitty_  
 `code kitty`
